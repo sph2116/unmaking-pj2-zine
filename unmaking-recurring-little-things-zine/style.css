@@ -1,0 +1,28 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;     
+
+}
+
+main {
+    padding: 36px 0;
+}
+
+main img {
+    display: block;
+    max-height: 100vh;
+    margin: 0 auto;
+}
+
+nav {
+    /* background-color: antiquewhite; */
+    padding: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    padding: 8px;
+}
